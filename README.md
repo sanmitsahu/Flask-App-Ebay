@@ -2,6 +2,8 @@
 
 Hosted on GCP - https://ebay-571-hw2.uc.r.appspot.com/
 
+Video Link - https://www.youtube.com/watch?v=XVlRJjSAv9o&ab_channel=VashSingh
+
 The project involves creating a web application that allows users to search for items using the eBay API. The web application is built using Python programming language and the Flask framework for the backend. The Flask app is deployed on the Google Cloud Platform (GCP).
 
 Here is a brief overview of the key components and technologies used in the project:
